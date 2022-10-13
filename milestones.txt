@@ -1,0 +1,5 @@
+Creating a web application
+checking the weight of the package
+creating bill
+checking the status of the package
+taking customer feedback.
