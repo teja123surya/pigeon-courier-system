@@ -1,0 +1,4 @@
+Creating the web application
+checking the weight and traveling distance of the package
+collecting the bill 
+checking the status of the package. 
